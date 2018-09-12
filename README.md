@@ -1,2 +1,1 @@
-# 20180912-exercise-2-bootstrap
-# 20180912-exercise-2-bootstrap
+Recreate "our usual exercise", this time using bootstrap. 
